@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://example.com
+https://all-fatih-funeral-home.zappy5.app
 All Fatih Funeral Home offers dignified funeral services in Oneida, NY. From caskets to flowers, our team provides compassionate care. Plan a meaningful tribute today.
 
 ### Services & Memorial Products
-https://example.com/services
+https://all-fatih-funeral-home.zappy5.app/services
 Discover our full range of funeral products including caskets, candles, flowers, and cards. Personalize a heartfelt farewell with All Fatih Funeral Home&#39;s dedicated team.
 
 ### Obituaries & Memorials
-https://example.com/obituaries
+https://all-fatih-funeral-home.zappy5.app/obituaries
 Browse 27,980 obituaries and memorials at All Fatih Funeral Home. Celebrate loved ones with lasting tributes. Find or share a memorial in Oneida, NY today.
 
 ### About & Funeral Team
-https://example.com/about
+https://all-fatih-funeral-home.zappy5.app/about
 Learn about All Fatih Funeral Home&#39;s compassionate team and our commitment to the Oneida community. Trust us for supportive, professional funeral services.
 
 ### Contact
-https://example.com/contact
+https://all-fatih-funeral-home.zappy5.app/contact
 Contact All Fatih Funeral Home at 130 Lenox Ave, Oneida, NY. Our funeral team is ready to assist with immediate needs or pre-planning. Call us for caring support.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://all-fatih-funeral-home.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://all-fatih-funeral-home.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://all-fatih-funeral-home.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -48,8 +48,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 130 Lenox Ave, Oneida, New York, US
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://all-fatih-funeral-home.zappy5.app/contact
+- Endpoint: https://all-fatih-funeral-home.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Funeral Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://all-fatih-funeral-home.zappy5.app/sitemap.xml
+- Robots: https://all-fatih-funeral-home.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://all-fatih-funeral-home.zappy5.app/llms-full.txt
