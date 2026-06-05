@@ -44,7 +44,8 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: buellm900@gmail.com
+- Address: 130 Lenox Ave, Oneida, New York, US
 
 ### Contact form
 - URL: https://example.com/contact
