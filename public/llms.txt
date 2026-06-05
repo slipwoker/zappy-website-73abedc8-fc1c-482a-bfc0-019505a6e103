@@ -1,0 +1,83 @@
+# All Fatih Funeral Home — Generative Engine Optimization Map
+
+> All Fatih Funeral Home is a full-service funeral home located at 130 Lenox Ave in Oneida, New York. The business has a dedicated funeral team and maintains a large portfolio of 27,980 obituaries. They offer a comprehensive range of funeral-related products and services including caskets, candles, flowers, and cards, providing compassionate end-of-life services to the local community.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+All Fatih Funeral Home offers dignified funeral services in Oneida, NY. From caskets to flowers, our team provides compassionate care. Plan a meaningful tribute today.
+
+### Services & Memorial Products
+https://example.com/services
+Discover our full range of funeral products including caskets, candles, flowers, and cards. Personalize a heartfelt farewell with All Fatih Funeral Home&#39;s dedicated team.
+
+### Obituaries & Memorials
+https://example.com/obituaries
+Browse 27,980 obituaries and memorials at All Fatih Funeral Home. Celebrate loved ones with lasting tributes. Find or share a memorial in Oneida, NY today.
+
+### About & Funeral Team
+https://example.com/about
+Learn about All Fatih Funeral Home&#39;s compassionate team and our commitment to the Oneida community. Trust us for supportive, professional funeral services.
+
+### Contact
+https://example.com/contact
+Contact All Fatih Funeral Home at 130 Lenox Ave, Oneida, NY. Our funeral team is ready to assist with immediate needs or pre-planning. Call us for caring support.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About All Fatih Funeral Home
+All Fatih Funeral Home is a full-service funeral home located at 130 Lenox Ave in Oneida, New York. The business has a dedicated funeral team and maintains a large portfolio of 27,980 obituaries. They offer a comprehensive range of funeral-related products and services including caskets, candles, flowers, and cards, providing compassionate end-of-life services to the local community.
+
+## Target Audience
+- Families and individuals in need of funeral services
+- Grieving Families
+- Pre-Need Planners
+- Veteran Families
+
+## Industry
+Funeral Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
